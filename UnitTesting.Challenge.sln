@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesUnitarios.Desafio.Tests", "TestesUnitarios.Desafio.Tests\TestesUnitarios.Desafio.Tests.csproj", "{AB3F2744-93B7-4532-96E5-FBB60ADA2444}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Challenge.Tests", "UnitTesting.Challenge.Tests\UnitTesting.Challenge.Tests.csproj", "{AB3F2744-93B7-4532-96E5-FBB60ADA2444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesUnitarios.Desafio.Console", "TestesUnitarios.Desafio.Console\TestesUnitarios.Desafio.Console.csproj", "{2749EE00-689D-4E4D-A733-9CD7BDA0471C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Challenge.Console", "UnitTesting.Challenge.Console\UnitTesting.Challenge.Console.csproj", "{2749EE00-689D-4E4D-A733-9CD7BDA0471C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
